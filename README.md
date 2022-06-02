@@ -45,6 +45,6 @@ Skills: REACT / JS / HTML / CSS
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonaaldas&layout=compact'/>
 </div>
 
-<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE:START -->
 Latest YOUTUBE videos
-<!-- YOUTUBE-LIST:END -->
+<!-- YOUTUBE:END -->
