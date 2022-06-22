@@ -46,6 +46,7 @@ Skills: REACT / JS / HTML / CSS
 </div>
 
 <!-- YOUTUBE:START -->
+- [How to show you are an Engineer, not a programmer? - Finding a Job Ep 4.](https://www.youtube.com/watch?v=pornWE5KMAs)
 - [How To Stand Out As A Junior Dev? - Ep 3 - Getting A Job Series](https://www.youtube.com/watch?v=SvC-3GIwmDE)
 - [Job Hunt - Ep 2  - Changing My Strategy](https://www.youtube.com/watch?v=KsujSuRZ2ao)
 - [Getting Ready To Apply For Jobs - Getting A Job Series](https://www.youtube.com/watch?v=d2VdJ894nz0)
