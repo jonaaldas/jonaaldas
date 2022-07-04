@@ -41,7 +41,6 @@ Skills: REACT / JS / HTML / CSS
 
  
 <div align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=jonaaldas&theme=dark" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jonaaldas&layout=compact'/>
 </div>
 
