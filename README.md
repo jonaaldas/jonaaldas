@@ -39,6 +39,87 @@
 
 - ⚡ Fun fact **I collect vintage and modern timepieces.**
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Transaction Managment App</h3>
+        <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+        <img src="https://i.imgur.com/8EMZz6b.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jonaaldas/transactionsV2" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://ornate-kulfi-cf002a.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rigley 2: "CodeSnipet.io"</h3>
+        <br />
+      <a target="_blank" href="https://jonathanaldas.com">
+          <img src="https://i.imgur.com/SSJiGXg.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jonaaldas/codeSnippet.io-TypeScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://courageous-toffee-126485.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, Tailwindcss, TypeScript, Babel </strong> - WepApp to help New progremmers acces their code snippet faster.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Sweet Treats App</h3>
+      <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/jonaaldas/Hackathon-sweet-treats-heroku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://statuesque-raindrop-35276d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, Tailwindcss, React, NodeJS, </strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jonathanxcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanxcoder" height="30" width="40" /></a>
