@@ -55,14 +55,14 @@
   <a href="https://github.com/jonaaldas/transactionsV2" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://ornate-kulfi-cf002a.netlify.app/" target="_blank">
+  <a href="https://delightful-kelpie-18ed40.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "CodeSnipet.io"</h3>
+      <h3 align="center">CodeSnipet.io</h3>
         <br />
       <a target="_blank" href="https://jonathanaldas.com">
           <img src="https://i.imgur.com/SSJiGXg.gif" width="100%"  alt="Rigley 2"/>
