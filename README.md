@@ -136,8 +136,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaaldas&show_icons=true&locale=en" alt="jonaaldas" /></p>
 
 <!-- YOUTUBE:START -->
+- [Deploy and MERN app without HEROKU](https://www.youtube.com/watch?v=l1CYFQ1F9N8)
 - [What is a Stack?#stack #dsa](https://www.youtube.com/watch?v=9_nFDqGLM8M)
 - [How I am learning Data Structures and Algorithms](https://www.youtube.com/watch?v=t_uykE5b2ao)
 - [How to show you are an Engineer, not a programmer? - Finding a Job Ep 4.](https://www.youtube.com/watch?v=pornWE5KMAs)
-- [How To Stand Out As A Junior Dev? - Ep 3 - Getting A Job Series](https://www.youtube.com/watch?v=SvC-3GIwmDE)
 <!-- YOUTUBE:END -->
