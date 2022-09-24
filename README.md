@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MongoDB, ExpressJS, React, Node, JWT Tokens for authentication and authorization, TailwindCss</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>MongoDB, ExpressJS, React, Node, JWT Tokens for authentication and authorization, TailwindCss</strong> - Referral system to help realtors manage their transactions</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Vida Exotica Freelance Website</h3>
