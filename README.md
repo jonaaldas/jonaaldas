@@ -83,6 +83,44 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Referra.io App</h3>
+      <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+          <img src="https://i.imgur.com/zmw09du.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/jonaaldas/referralio-clientside" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://transcendent-sunshine-b16a5f.netlify.app/auth" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>MongoDB, ExpressJS, React, Node, JWT Tokens for authentication and authorization, TailwindCss</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Vida Exotica Freelance Website</h3>
+        <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+          <img src="https://i.imgur.com/17YpUgl.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jonaaldas/vida-exotica-website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://precious-banoffee-99d39f.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Website made for a cafe</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Sweet Treats App</h3>
       <br />
         <a target="_blank" href="https://jonathanaldas.com">
