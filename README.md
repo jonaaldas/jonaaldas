@@ -61,6 +61,28 @@
       </p>
         <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
     </td>
+    
+
+    <td width="50%" valign="top">
+      <h3 align="center">Crypto Dashboard</h3>
+      <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+          <img src="https://i.imgur.com/Way5GLU.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/jonaaldas/Hackathon-sweet-treats-heroku" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://statuesque-raindrop-35276d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Tailwindcss, Websockets, CoinBaseApi</strong> Crypto Dashboard that get real time data from the coinbase API </p>
+    </td>
+   
+
+    
     <td width="50%" valign="top">
       <h3 align="center">CodeSnipet.io</h3>
         <br />
@@ -117,27 +139,6 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Website made for a cafe</p>
     </td>
-  </tr>
-  
-   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Crypto Dashboard</h3>
-      <br />
-        <a target="_blank" href="https://jonathanaldas.com">
-          <img src="https://i.imgur.com/Way5GLU.gif" width="100%" alt="Portfolio"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/jonaaldas/Hackathon-sweet-treats-heroku" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://statuesque-raindrop-35276d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Tailwindcss, Websockets, CoinBaseApi</strong> Crypto Dashboard that get real time data from the coinbase API </p>
-    </td>
-   
   </tr>
   
   <tr>
