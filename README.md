@@ -61,9 +61,8 @@
       </p>
         <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
     </td>
-</tr>
-  <tr>
-    <td width="50%" valign="top">
+    
+     <td width="50%" valign="top">
       <h3 align="center">Crypto Dashboard</h3>
       <br />
         <a target="_blank" href="https://jonathanaldas.com">
@@ -80,6 +79,9 @@
       </p>
         <p><strong>React, Tailwindcss, Websockets, CoinBaseApi</strong> Crypto Dashboard that get real time data from the coinbase API </p>
     </td>
+</tr>
+  <tr>
+<!--    dashboard -->
   </tr>
 
    <tr> 
