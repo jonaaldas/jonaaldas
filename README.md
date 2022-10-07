@@ -42,30 +42,8 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Transaction Managment App</h3>
-        <br />
-        <a target="_blank" href="https://jonathanaldas.com">
-        <img src="https://i.imgur.com/8EMZz6b.gif" width="100%" alt="Travel App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/jonaaldas/TM-MERN-APP" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://delightful-kelpie-18ed40.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
-    </td>
-    
 </tr>
-
-
    <tr> 
     <td width="50%" valign="top">
       <h3 align="center">CodeSnipet.io</h3>
@@ -75,7 +53,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/jonaaldas/codeSnippet.io-TypeScript" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -85,10 +62,7 @@
       </p>
         <p><strong>HTML5, Tailwindcss, TypeScript, Babel </strong> - WepApp to help New progremmers acces their code snippet faster.</p>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3 align="center">Referra.io App</h3>
       <br />
         <a target="_blank" href="https://jonathanaldas.com">
@@ -105,6 +79,8 @@
       </p>
         <p><strong>MongoDB, ExpressJS, React, Node, JWT Tokens for authentication and authorization, TailwindCss</strong> - Referral system to help realtors manage their transactions</p>
     </td>
+  </tr>
+  <tr>
   <tr>  
     <td width="50%" valign="top">
       <h3 align="center">Vida Exotica Freelance Website</h3>
@@ -114,7 +90,6 @@
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/jonaaldas/vida-exotica-website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -124,10 +99,7 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Website made for a cafe</p>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
       <h3 align="center">Sweet Treats App</h3>
       <br />
         <a target="_blank" href="https://jonathanaldas.com">
@@ -143,10 +115,27 @@
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-   
+    </td> 
   </tr>
- 
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Transaction Managment App</h3>
+        <br />
+        <a target="_blank" href="https://jonathanaldas.com">
+        <img src="https://i.imgur.com/8EMZz6b.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">   
+  <a href="https://github.com/jonaaldas/TM-MERN-APP" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://delightful-kelpie-18ed40.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, Bootstrap, Node, MongoseDB, ExpressJS, ReacJS</strong> - Platform to help Real Estate Agent manage their transacions! </p>
+    </td>    
+</tr> 
 </table>
 
 <h3 align="left">Connect with me:</h3>
