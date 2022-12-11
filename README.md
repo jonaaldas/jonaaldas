@@ -154,8 +154,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaaldas&show_icons=true&locale=en" alt="jonaaldas" /></p>
 
 <!-- YOUTUBE:START -->
+- [Did I get a job? What Happened?](https://www.youtube.com/watch?v=2afBCmWk1X8)
 - [Deploy your MERN app without HEROKU!!](https://www.youtube.com/watch?v=l1CYFQ1F9N8)
 - [What is a Stack?#stack #dsa](https://www.youtube.com/watch?v=9_nFDqGLM8M)
 - [How I am learning Data Structures and Algorithms](https://www.youtube.com/watch?v=t_uykE5b2ao)
-- [How to show you are an Engineer, not a programmer? - Finding a Job Ep 4.](https://www.youtube.com/watch?v=pornWE5KMAs)
 <!-- YOUTUBE:END -->
