@@ -154,8 +154,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaaldas&show_icons=true&locale=en" alt="jonaaldas" /></p>
 
 <!-- YOUTUBE:START -->
+- [Jonathan Live Stream](https://www.youtube.com/watch?v=EDNp_aIDPW4)
 - [How to build your own shopify countdown timer &lpar;NO APP&rpar;](https://www.youtube.com/watch?v=du655gvzfXw)
 - [3 questions I asked myself before learning how to code](https://www.youtube.com/watch?v=2djLDcUB2YI)
 - [Did I get a job? What Happened?](https://www.youtube.com/watch?v=2afBCmWk1X8)
-- [Deploy your MERN app without HEROKU!!](https://www.youtube.com/watch?v=l1CYFQ1F9N8)
 <!-- YOUTUBE:END -->
