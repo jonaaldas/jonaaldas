@@ -154,8 +154,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonaaldas&show_icons=true&locale=en" alt="jonaaldas" /></p>
 
 <!-- YOUTUBE:START -->
+- [February 11, 2026](https://www.youtube.com/shorts/6ULmCLqrnhU)
 - [How to Implement caching in NUXT](https://www.youtube.com/watch?v=nr2QW5b6qKE)
 - [Building an App in React Native and Go](https://www.youtube.com/watch?v=dRfFyBOGUaE)
 - [Jonathan Live Stream](https://www.youtube.com/watch?v=EDNp_aIDPW4)
-- [How to build your own shopify countdown timer &lpar;NO APP&rpar;](https://www.youtube.com/watch?v=du655gvzfXw)
 <!-- YOUTUBE:END -->
